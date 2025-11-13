@@ -46,6 +46,18 @@ git checkout master
 
 git merge develop 完成合并
 
+## 绑定远程仓库
+
+git remote add origin 远程仓库地址
+
+> origin是仓库名，可随意更改
+
+## 上传到Git hub
+
+git push origin master
+
+> origin是上一步的仓库名，master是本地代码分支
+
 
 
 
