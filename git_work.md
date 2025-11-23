@@ -58,6 +58,12 @@ git push origin main
 
 > origin是上一步的仓库名，main是本地代码分支
 
+## 修改现有地址
+
+git remote set-url origin git@github.com:viper-wq/demo.git
+
+> git remote -v 可查看当前连接的远程地址
+
 
 
 
