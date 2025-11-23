@@ -54,16 +54,12 @@ git remote add origin 远程仓库地址
 
 ## 上传到Git hub
 
-git push origin master
+git push origin main
 
-> origin是上一步的仓库名，master是本地代码分支
-
-
+> origin是上一步的仓库名，main是本地代码分支
 
 
 
 
 
 
-
-- 
